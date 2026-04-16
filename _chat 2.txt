@@ -1,0 +1,581 @@
+[5/30/23, 12:45:38] Urvi Engineering PICT-AI-DS 👍: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[2/27/25, 11:25:52] pa: 30 Must-Know Tools for Python Development
+
+Source: KDnuggets
+ https://search.app/G4Bh
+[4/6/25, 13:04:36] pa: Check this out Urvi : https://annas-archive.org/search?index=&page=1&q=Data+science&display=&sort=
+[4/6/25, 13:13:54] pa: https://annas-archive.org/search?index=&page=1&q=AI+DS+and+ML&display=&sort=
+[5/22/25, 13:17:36] pa: Training an LLM on business-specific data means using your company's unique information to enhance the model's understanding and performance in a specific context. This process involves collecting, cleaning, and preparing your own data (like customer conversations, product documentation, or industry-specific articles) to fine-tune an LLM for your particular needs, resulting in a more tailored and accurate AI model. 
+
+Elaboration:
+1. What it Means:
+
+Customization:
+Instead of relying solely on a general LLM trained on vast public datasets, you're creating a model that understands your company's unique vocabulary, processes, and industry jargon. 
+
+Improved Accuracy:
+Your LLM will be better equipped to handle questions, generate content, or perform tasks specific to your business, leading to more accurate and relevant responses. 
+
+Business-Specific Expertise:
+The model can learn and apply knowledge about your products, services, internal procedures, and customer interactions, giving it expertise beyond generic language models. 
+
+2. How to Train on Business Data:
+Data Collection:
+Identify and gather relevant data from various sources within your organization, including customer interactions, documents, emails, reports, and internal databases. 
+
+Data Cleaning and Preparation:
+Ensure your data is clean, free from errors, and formatted appropriately for the LLM training process. This may involve removing duplicates, handling missing values, and ensuring data consistency. 
+
+Fine-Tuning:
+Use the prepared business data to further train a pre-trained LLM. This process involves adjusting the model's parameters to better align with your specific use case, often through supervised learning techniques. 
+
+Evaluation and Iteration:
+After training, evaluate the model's performance on tasks relevant to your business. Iterate on the process, refining the data and model parameters to achieve optimal results. 
+
+3. Benefits of Training with Business Data:
+Enhanced Accuracy and Relevance:
+LLMs trained on business data provide more accurate and relevant responses to queries, improving the quality of AI-powered applications. 
+Increased Efficiency:
+Tailored LLMs can automate tasks like customer support, content generation, and data analysis, improving overall efficiency. 
+Competitive Advantage:
+By leveraging your unique data, you can create a model that gives you a competitive edge in your industry. 
+Improved User Experience:
+LLMs trained on your data can provide more personalized and engaging user experiences.
+[5/30/25, 19:09:23] pa: https://www.udemy.com/course/databases-learnit/
+[6/5/25, 12:42:01] pa: Check these AI courses @⁨urvi⁩  
+
+1) https://www.udemy.com/course/llm-engineer/learn/lecture/49603479?start=0#overview 
+
+2) https://www.udemy.com/course/master-python-generative-ai-for-advanced-analytics
+
+3) https://www.udemy.com/course/generative-ai-fundamentals-specialization/ 
+
+4) https://www.udemy.com/course/mastering-generative-ai/
+
+5) https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/
+
+6) https://www.udemy.com/course/artificial-intelligence-in-the-classroom/
+[7/25/25, 07:14:28] pa: 5 Fun Generative AI Projects for Absolute Beginners - KDnuggets https://share.google/HwmsdQyAdILJ6nOHQ
+[8/5/25, 17:40:31] pa: https://youtu.be/HzU7u78swWI?si=gjboyIJtZO99t5i9
+[8/12/25, 10:53:28] pa: 5 Useful Python Scripts for Busy Data Scientists - KDnuggets https://share.google/dOIgbLg9HR1X3EXfI
+‎[8/14/25, 20:56:29] pa: Urvi_Rashinkar_AIML_Resume_Multiple_Formats.zip ‎document omitted
+[8/22/25, 07:50:05] pa: Debugging Python in Docker: A Tutorial for Beginners - KDnuggets https://share.google/WJ9ThpxUr8sNblbyC
+[9/5/25, 11:57:43] pa: https://www.udemy.com/course/full-stack-ai-with-ollama-llama-deepseek-mistral-phi/
+[9/5/25, 11:59:20] pa: https://www.udemy.com/course/deep-reinforcement-learning-using-python/
+[9/6/25, 18:04:23] pa: https://www.udemy.com/join/login-popup/?passwordredirect=True
+[9/9/25, 14:23:04] pa: Top 7 AI Web Scraping Tools - KDnuggets https://share.google/CINbIG40kAALDLceL
+[9/18/25, 07:16:54] pa: Kirk Borne on X: "Mathematical Theory of #DeepLearning [download 282-page PDF]: https://t.co/5KJcm1Qsc2 + + See also this book: https://t.co/8mAbOMKuza ————— #AI #DataScience #ML #MachineLearning #Calculus #DataScientist #Mathematics #Algorithms https://t.co/MXQ6oKgbyp" / X https://share.google/EhoY7PnrJlYelcBsf
+[12/24/25, 11:51:24] pa: https://www.udemy.com/course/data-science-interview-questions-and-answers-part-1
+[12/24/25, 11:51:48] pa: DS interview questions 👆
+[12/24/25, 11:52:02] pa: https://www.udemy.com/course/complete-machine-learning-and-data-annotation-course-2026
+[12/24/25, 11:52:17] pa: Complete ML and Data Annotation 👆
+[12/24/25, 11:52:33] pa: https://www.udemy.com/course/generative-ai-for-personal-productivity
+[12/24/25, 11:52:42] pa: generative-ai-for-personal-productivity 👆
+[12/24/25, 11:52:53] pa: https://www.udemy.com/course/machine-learning-ai-foundations-course
+[12/24/25, 11:53:03] pa: machine-learning-ai-foundations-course 👆
+[12/24/25, 11:53:30] pa: https://www.udemy.com/course/docker-from-beginner-to-expert
+[12/24/25, 11:53:42] pa: docker-from-beginner-to-expert 👆
+[12/24/25, 11:53:59] pa: https://www.udemy.com/course/python-advanced-coding-interview-questions-ans-explanation
+[12/24/25, 11:54:09] pa: python-advanced-coding-interview-questions-ans-explanation 👆
+[12/24/25, 11:54:18] pa: https://www.udemy.com/course/databricks-machine-learning-pro-exam-test-1500-questions
+[12/24/25, 11:54:30] pa: databricks-machine-learning-pro-exam-test-1500-questions 👆
+[12/24/25, 11:54:39] pa: https://www.udemy.com/course/certified-jira-workflow-professional-for-developers
+[12/24/25, 11:54:53] pa: certified-jira-workflow-professional-for-developers 👆
+[12/24/25, 11:55:06] pa: https://www.udemy.com/course/vapt-owasp
+[12/24/25, 11:55:15] pa: Cybersecurity: Vulnerability Assessment & Pen Testing (VAPT) 👆
+[12/24/25, 11:55:24] pa: https://www.udemy.com/course/ai-tools-for-ux-ui-designers-and-web-designers
+[12/24/25, 11:55:30] pa: AI Tools for UX UI Designers and Web Designers 👆
+[12/24/25, 11:55:39] pa: https://www.udemy.com/course/deep-learning-specialization-advanced-ai-architectures
+[12/24/25, 11:55:46] pa: Deep Learning Specialization: Advanced AI, Hands on Lab 👆
+[12/24/25, 11:55:59] pa: https://www.udemy.com/course/python-development-data-science-variables-and-data-types
+[12/24/25, 11:56:06] pa: Python Development & Data Science: Variables and Data Types 👆
+[12/24/25, 11:56:15] pa: https://www.udemy.com/course/ai-for-everyone-1
+[12/24/25, 11:56:24] pa: AI for Everyone: Master AI, Machine Learning & Generative AI 👆
+[12/24/25, 11:56:33] pa: https://www.udemy.com/course/llm-genai-interview-questions-and-answers-basic-to-expert
+[12/24/25, 11:56:40] pa: Master LLM and Gen AI: 600+ Real Interview Questions[2026]
+[12/24/25, 11:56:52] pa: https://www.udemy.com/course/learn-figma-uiux-design-masterclass-from-beginner-to-pro
+[12/24/25, 11:57:01] pa: Learn Figma: UI/UX Design Masterclass From Beginner to Pro 👆
+[12/24/25, 11:57:10] pa: https://www.udemy.com/course/langchain-llm-in-hindi
+[12/24/25, 11:57:17] pa: Langchain in Hindi 👆
+[12/24/25, 11:57:25] pa: https://www.udemy.com/course/python-machine-learning-from-beginner-to-pro
+[12/24/25, 11:57:31] pa: Python Machine Learning: From Beginner to Pro 👆
+[12/26/25, 09:41:03] pa: 'Worth every sleepless night': 18-year-old wakes up at 3 am to run a global AI startup tackling Alzheimer’s - Trending News | The Financial Express https://share.google/sTMjkZe4PuvmcYmgY
+[12/28/25, 12:08:13] pa: 19-YO Indian American entrepreneur builds Supermemory, an open-source evaluation framework for all context systems, across any benchmark https://share.google/MuJ4RnWnqr5hdGgwP
+[12/29/25, 08:23:27] pa: https://www.reddit.com/r/Indian_flex/s/aAIYYZ9i7L
+[12/29/25, 08:23:54] pa: Read for motivation 👆already a crorepati and he is 26-27 faang
+[1/4/26, 17:34:02] pa: Dear all,
+
+Warm Greetings from *SCTR's Pune Institute of Computer Technology, Pune, Maharashtra*.💐
+
+It gives us immense pleasure to announce that the *Department of Computer Engineering, PICT, Pune* is organizing *40 hours Online Certificate Course* on,
+
+✨ *AI Engineering Masterclass: Python, ML, DL, CV, NLP, GenAI & Agentic AI* ✨
+
+🗓️ *Date:* 3rd March Onwards
+⏰ *Timings*: 4 pm to 5 pm (Monday to Friday)
+
+*Course attractions*:
+📍 Hands-on experience with experts from PICT, CCE, Biogen, Ultron & Venon Technologies.
+📍Selected students will get internship & placement opportunities.
+
+📝 *Registration Link*: https://forms.gle/6TKteJcLRx4kguGG7
+
+*Registration Starts*: 3rd Jan 2026
+
+*Registration Ends*: 23rd Feb  2026
+
+*Fees:* Rs. 800
+
+📚 *Course Syllabus:*
+Module 1: Python for Artificial Intelligence
+Module 2: Machine Learning Essentials
+Module 3: Deep Learning with Neural Networks 
+Module 4: Natural Language Processing 
+Module 5 : Generative AI and Large Language Models
+
+🧑‍🎓 *Resource Persons*:
+Ms.Priyanka Shahane
+Asst. Professor, PICT, Pune
+Mrs. Snehal Shintre
+Asst. Professor, PICT, Pune                                                         
+Mr. Arpit Yadav
+Sr. AI Scientist, CCE, Bangalore
+Mr. Suhas Pawar
+Sr. Data  Scientist, Biogen, UK
+Mr. Sumit Chawla
+CEO- Ultron & Venon Technologies, Gujarat
+Mr. Shubham Mayekar
+Google Certified Trainer, Mumbai 
+
+*For any queries contact,*✉️📞
+Ms. Priyanka Shahane
+psshahane@pict.edu 
+7796831759
+Ms. Snehal Shintre
+spshintre@pict.edu
+9307564770
+
+📜 *_Certificate & e-contents will be provided to all the participants._*
+
+Thanks & Regards
+Ms. Priyanka Shahane
+Ms. Snehal Shintre
+*Course Coordinators*
+
+Dr. B. A. Sonkamble
+*HoD-CE, PICT*
+
+Prof. Dr. S. T. Gande
+*Principal, PICT*
+
+Prof. Dr. P. T. Kulkarni 
+*Director, PICT*
+[1/5/26, 14:05:53] pa: Do Check for Internship Opportunities 
+
+https://www.linkedin.com/company/data-florent/
+[1/9/26, 11:11:52] pa: 3 to 4 months Internship at PrimeNumerics, open to all, AI ML Coding passionate folks, unpaid internship, you will get certificate on completion, Remote working
+[1/9/26, 11:11:57] pa: From akash kaka on his LinkedIn
+[1/9/26, 11:12:23] pa: Bagh join ho for few months after your GATE probably
+[1/9/26, 11:12:38] pa: Leave it to you, but it will help your profile
+[1/9/26, 11:13:55] urvi: Okay great
+[1/9/26, 11:14:00] urvi: I’ll check it out
+[1/9/26, 11:38:04] pa: The revised release date will be announced soon for GATE 2026 | Paper Schedule is released | Mock Test Links are live now |
+[1/9/26, 11:39:49] pa: Please take the mock test for GATE 2026 and see for yourself where you stand : https://gate2026.iitg.ac.in/mock-test-links.html
+[1/9/26, 11:41:37] pa: https://gate2026.iitg.ac.in/exam-papers-and-syllabus.html (Exam papers and Syllabus)
+[1/9/26, 11:42:11] pa: https://gate2026.iitg.ac.in/question-paper-pattern.html     (Paper Pattern)
+[1/9/26, 11:45:12] pa: IISc Bangalore is not an IIT because it's India's premier research institute, focusing on science and higher studies (M.Tech, PhDs) with deep research culture, while IITs are primarily engineering institutes focused on undergraduate (B.Tech) education, industry placements, and entrepreneurship, although both excel in different domains. What sets IISc apart is its deeper, more rigorous scientific research emphasis, flexibility in research-oriented courses, fewer undergraduates, and a stronger academic atmosphere geared towards PhDs and innovation, whereas IITs offer broader engineering programs, vibrant campus life, and stronger corporate recruitment pipelines. 
+Key Differences: Mission & Focus
+IISc (Indian Institute of Science): A research-focused university (Institute of Eminence) with a strong emphasis on science, technology, and innovation, producing researchers, PhDs, and scientific leaders.
+IITs (Indian Institutes of Technology): Primarily engineering colleges focused on undergraduate education, producing engineers for the corporate world, with strong industry links, entrepreneurship, and placements. 
+What Sets IISc Apart?
+Research Intensity: Deeper dive into scientific research, reading papers, and developing critical thinking, making it ideal for research-oriented careers.
+Course Structure: More rigorous, research-heavy coursework, with significant credit for master's research, fostering a questioning and scientific mindset.
+Academic Culture: Stronger emphasis on high-impact publications, patents, and lab capabilities, with professors deeply invested in specific research areas.
+Student Body: Fewer undergraduates, more postgraduates and PhDs, creating a different peer environment.
+Flexibility: Often offers more flexibility in course choices and streams. 
+What Sets IITs Apart?
+Undergraduate Focus: Strong, broad engineering education for thousands of students.
+Industry & Placements: Excellent corporate recruitment, high-profile startups, and strong alumni networks in industry.
+Campus Life: Larger student bodies, vibrant non-academic activities, sports, and clubs.
+Visibility: Greater public visibility due to large batches, media coverage, and high-profile tech alumni. 
+Career Paths
+Choose IIT if: You want to enter the corporate world, build tech products, or start a business in technology.
+Choose IISc if: You are passionate about fundamental science, high-end research, academia, or roles requiring deep scientific understanding.
+[1/9/26, 11:45:25] pa: Vaach, what is IISC different than IIT
+[1/9/26, 11:45:43] pa: Looks to me IISC is elder brother of IISER
+[1/10/26, 16:01:46] pa: https://www.goclasses.in/
+[1/10/26, 16:01:59] pa: Check this for gate 👆
+[1/10/26, 16:05:42] pa: ‎This message was deleted.
+[1/10/26, 16:08:44] pa: https://t.me/gatecse2024
+[1/10/26, 16:08:58] pa: Join this telegram channel and browse it
+[1/10/26, 16:09:14] urvi: okay thank you
+[1/10/26, 22:53:59] pa: SEE YOU ALL AT IIT SOON
+
+Strategy for remaining months
+
+Try to cover syllabus by October end or November mid max
+
+July ,august , September,October: )) Take 2 subjects (1 hard and 1 easy) and target to cover those subjects nicely within 1 month (along with pyqs and subject test) and give 1 hr daily to revise the subject u have already done
+
+November,do 4 full length tests ,every Sunday and in between work on your weak areas and give subjects tests if any left and do marked pyqs and revision
+
+December give atleast 10 full length tests and revision 
+
+January :)) Beleive on your preparation and take care of your health and do previous year gate full length tests and 2 to 3 mock tests
+[1/11/26, 23:05:28] urvi: okay thank you
+‎[1/14/26, 10:38:35] pa: DA26S82095176_AdmitCard.pdf • ‎1 page ‎document omitted
+[1/14/26, 10:41:12] pa: Your center is PCMC university and almost 45 km (approx 1.5 hrs) from our home. Timings 2:30 to 5:30 pm
+[1/14/26, 10:41:22] pa: Abhyasala laaga madam ata
+[1/14/26, 10:46:09] urvi: Bapre
+[1/14/26, 10:46:11] urvi: So far
+[1/14/26, 10:46:16] urvi: That is 1/4th mumbai
+[1/14/26, 11:04:41] pa: Yes bagh nah, thoda pudhey gelo tar Lonavala yeil 🙂
+[1/15/26, 18:13:48] pa: https://youtu.be/RMAux-sD1bA
+[1/20/26, 07:14:30] pa: https://timesofindia.indiatimes.com/business/india-business/wanted-fresh-graduates-with-ai-data-skills/articleshow/126715316.cms
+[1/20/26, 11:01:37] pa: https://timesofindia.indiatimes.com/etimes/trending/meet-satyam-kumar-iit-at-14-texas-phd-at-24-now-an-ai-researcher-in-us/articleshow/126661862.cms
+[1/21/26, 17:18:53] pa: NodeJS creator says era of humans writing code is over, suggests next options for software engineers - India Today https://share.google/ARc0e6abhOsRWMqKV
+[1/21/26, 21:00:59] pa: https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-xai-joins-meta-google-and-openai-in-ai-talent-war-in-recruiting-elite-unit-see-if-you-can-apply-for-the-job/articleshow/126992755.cms
+[1/22/26, 15:28:31] pa: Dear Parents,
+As per SPPU guidelines, TE AI&DS students have an *academic internship* head wherein they have 50 marks term work and *50 marks external oral exam.* Other departments are not having external oral for the same. Hence, in order to ensure our students’ preparedness and bridge any technical gaps that may arise in front of the external examiner, the department has suggested that students undergo industrial internship as per college policy or for students who are interested to pursue research-based internship, department is also offering in-house internships as per norms through various research groups. Also, For bridging any technical gaps, department has made provision of providing technical certifications and trainings in consultation with industry experts.
+*However it has been observed that students are neither responding nor taking these in a positive perspective.* Due to this it would be difficult for the department to take future initiatives if this continues further. Kindly take a note of this.
+This message is from us to keep you all informed regarding the same.
+Thank you.
+[1/22/26, 15:28:31] pa: Dear Parents,
+In accordance with the Internship guidelines and after due consideration by the Higher Authorities, the Department, in coordination with the placement Cell, has organized a 45-day training program to support students’ internship requirements and skill development. The training includes the 4 certification-oriented modules & Cisco Certification Course in collaboration with Kasnet Technologies, ensuring industry-relevant exposure and certification opportunities for students. However, it has been observed with concern that a significant number of students are not attending the scheduled training sessions and regular theory classes in the college, but the training session is arranging after their college timing. Due to non-attendance and lack of participation, the Department will not be responsible for loss of eligibility for certification or internship-related benefits.
+For any clarification, parents may contact the Department during working hours.
+Thank You.
+[1/23/26, 17:12:21] pa: https://www.udemy.com/course/artificial-intelligence-mcq
+[1/23/26, 17:12:30] pa: ekda baghoon ghey hey udemy course
+[1/23/26, 17:14:47] pa: https://www.udemy.com/course/ai-engineering-complete-bootcamp-masterclass : Complete Guide with 1000 Projects
+[1/23/26, 17:15:31] pa: https://www.udemy.com/course/machine-learning-mcq : Machine Learning Interview Preparation Questions [2026]
+[1/24/26, 18:03:27] pa: https://chatgpt.com/share/6974bbc7-936c-8007-8c0e-3eff0616fd97
+[1/24/26, 18:03:34] pa: I was testing my Java Annotations skill and ChatGPT helped me alot to clear my understanding around it ... Do read the annotation and clear your concepts
+[1/25/26, 12:24:12] urvi: https://www.pw.live/gate/data-science-ai/batches/super-1500-gate-2026-batch----hinglish----data-science-and-artificial-intelligence-819206
+[1/25/26, 13:20:28] pa: https://t.me/s/gatewallah_official?before=6378
+[1/25/26, 13:42:39] pa: https://github.com/DS-AI-GATE/dsai-gate?tab=readme-ov-file
+[1/25/26, 13:42:43] pa: Check this repo Urvi
+[1/25/26, 13:42:50] pa: seems promising to me
+[1/25/26, 13:48:07] pa: https://www.geeksforgeeks.org/gate/100-days-of-gate-data-science-ai/
+[1/25/26, 22:00:42] pa: https://www.classcentral.com/
+[1/25/26, 22:00:57] pa: find this website for besy free certifications
+[1/25/26, 22:10:36] pa: https://internshala.com/
+[1/25/26, 22:10:51] pa: chk this website for all internship needs
+[1/25/26, 22:11:57] pa: https://youtu.be/E49guQqe23o?si=MIg0xdEyRZsSnpM4
+[1/25/26, 22:21:59] pa: https://youtube.com/shorts/FpJZl7SF3bQ?si=xRwCmoLnG3Frc1mV
+[1/27/26, 14:37:30] pa: https://www.amazon.in/GATE-2025-Data-Science-Artificial-Intelligence-ebook/dp/B0D3HHW45X
+[1/27/26, 14:37:42] pa: Has good reviews about this ebook on amazon for Gate 2026
+[1/27/26, 14:37:49] pa: DA + AI
+[1/27/26, 14:41:08] pa: https://www.amazon.in/GATE-2025-Data-Science-Artificial-Intelligence-ebook/dp/B0D3HHW45X?asin=B0D3HHW45X&revisionId=&format=4&depth=1
+[1/27/26, 14:41:14] pa: Read sample of above book
+[1/27/26, 15:13:50] urvi: Luxemboirg uni scholarship
+[1/28/26, 11:12:25] pa: Feb 15th , 2:30 pm to 5:30 pm
+[1/28/26, 11:15:01] pa: *GATE Exam instructions:*
+
+*Reporting Time and Entry*
+
+Arrive Early: Candidates must reach the exam centre at least *90 minutes before the scheduled commencement of the exam to complete biometric registration and security checks.*
+
+Entry Deadline: No candidate will be allowed to enter the exam centre 30 minutes before the session starts.
+
+Session Timings: The exam will be held in two sessions: Forenoon (9:30 AM – 12:30 PM) and Afternoon (2:30 PM – 5:30 PM).
+
+Login Time: Candidates can log in and read instructions 20 minutes before the exam starts. 
+
+*Preparation and Travel*
+Verify Centre Location: It is highly advised to locate the exam centre a day before the exam to avoid last-minute delays or confusion.
+
+Transport Planning: Use public transport or plan your route in advance using GPS to avoid traffic.
+
+Valid ID Proof: Bring the original and valid photo ID proof (Aadhaar Card, Passport, PAN Card, Voter ID, or Driving License) that was used during the registration process.
+
+Admit Card: A printed hard copy of the GATE 2026 admit card on A4 size paper is mandatory for entry. 
+
+*Prohibited Items and Restrictions*
+
+Electronic Gadgets: Mobile phones, laptops, smartwatches, calculators, or any Bluetooth-enabled devices are strictly banned inside the exam hall.
+
+Banned Personal Items: Wallets, handbags, belts, and jewelry/ornaments (rings, bracelets) are not allowed.
+
+Dress Code: Wear light and comfortable clothing. Avoid clothes with large buttons, pockets, or metallic items. Open footwear like flip-flops or sandals is recommended, as you may be asked to remove shoes.
+
+Safe Keeping: There may not be a safe place to store personal items; it is better not to bring them. 
+
+*Items Allowed Inside*
+
+Printed Admit Card.
+
+Original Valid ID Proof.
+
+Transparent water bottle.
+
+Face mask.
+
+Pocket-sized hand sanitizer. 
+
+*A scribble pad will be provided for rough work, which must be returned to the invigilator after the exam.* ‎<This message was edited>
+[1/28/26, 11:16:02] urvi: bapre
+[1/28/26, 11:17:25] pa: https://www.shiksha.com/engineering/articles/gate-exam-day-guidelines-blogId-219228
+[1/30/26, 15:56:23] pa: https://www.reddit.com/r/CareerAdvice101/comments/1q6bepr/how_to_find_remote_jobs_with_low_competition_in/?rdt_cid=5005816660754660573
+[2/2/26, 15:52:40] pa: vachlis ka ?
+[2/3/26, 09:55:33] urvi: Nahi wait
+[2/4/26, 10:51:05] pa: https://www.udemy.com/course/ai-enginner-2026-complete-course-gen-ai-deep-machine-llm
+[2/4/26, 10:51:28] pa: https://www.udemy.com/course/modern-nlp-for-ai-engineers-data-scientists
+[2/4/26, 10:52:06] pa: https://www.udemy.com/course/complete-rag-bootcamp-build-optimize-and-deploy-ai-apps
+[2/4/26, 10:52:45] pa: https://www.udemy.com/course/ai-hero-a-12-month-journey-taking-you-from-zero-to-expert
+[2/5/26, 23:00:02] pa: https://www.udemy.com/course/chat-gpt-for-content-creation : The Ultimate OpenAI Comprehensive Guide: All Tools Explained
+[2/5/26, 23:00:08] pa: Looks good to me
+[2/8/26, 10:22:54] urvi: Okay dad
+[2/8/26, 10:22:58] urvi: Will check it out
+[2/8/26, 10:39:14] pa: Pun Kar nakki
+[2/8/26, 10:39:21] pa: Revisit this group always
+[2/10/26, 14:20:13] pa: https://www.udemy.com/course/ai-hero-a-12-month-journey-taking-you-from-zero-to-expert : AI Hero: A 12-Month Journey Taking You from Zero to Expert
+[2/10/26, 14:20:40] pa: https://www.udemy.com/course/certified-nvidia-ai-expert
+[2/10/26, 14:21:04] pa: https://www.udemy.com/course/cybersecurity-101-foundations-for-absolute-beginners : Cybersecurity 101: Foundations for Absolute Beginners (Very imp)
+[2/10/26, 14:21:33] pa: https://www.udemy.com/course/ai-bible-from-beginner-to-builder-in-100-projects : AI Bible: From Beginner to Builder in 100 Projects
+[2/10/26, 14:22:04] pa: https://www.udemy.com/course/ai-engineer-explorer-certificate-course : AI Engineer Explorer Certificate Course
+[2/10/26, 14:22:22] pa: https://www.udemy.com/course/ai-engineer-associate-certificate-course : AI Engineer Associate Certificate Course
+[2/10/26, 14:22:49] pa: https://www.udemy.com/course/ai-engineer-professional-certificate-course : AI Engineer Professional Certificate Course
+[2/10/26, 14:23:06] pa: https://www.udemy.com/course/ai-product-manager-explorer-certificate : AI Product Manager Explorer Certificate
+[2/10/26, 14:23:28] pa: https://www.udemy.com/course/mastering-ai-on-aws-training-aws-certified-ai-practitioner : Mastering AI on AWS: Training AWS Certified AI-Practitioner
+[2/10/26, 14:23:51] pa: https://www.udemy.com/course/ai-python-development-megaclass-300-hands-on-projects  AI & Python Development Megaclass - 300+ Hands-on Projects
+[2/10/26, 14:24:54] pa: Check karoon ghey sagley courses , plan them and execute and update it on LinkedIn
+[2/11/26, 11:41:32] pa: 13K courses on Udemy just for you, make good use of it dear .... Do atleast 2 to 3 courses in all your needed subjects and more iN AI/ML/DS
+[2/13/26, 19:00:55] pa: GATE score obtained by the candidate will remain valid for a period of THREE years from the date of announcement of results.
+[2/13/26, 19:35:10] pa: Will I be provided with any white paper for rough work and calculations during the examination?
+Only one scribble pad at any point of time will be provided to the candidate that can be used to do the rough work. To obtain a second scribble pad, the candidate MUST return the first scribble pad. The candidates have to return any scribble pad in their possession at the end of the examination. The virtual scientific calculator will be available on the computer screen.
+
+Am I allowed to enter the examination hall at any time during the examination?
+NO. Candidates MUST enter before the starting time of the examination. However, delayed entry is permitted such that a candidate is able to login NOT later than 30 minutes from the starting time of the examination. NO relaxation is given under any circumstances.
+
+In case of permitted delayed entry in the examination hall, will I get extra time corresponding to my delayed entry?
+NO. The candidate with permitted delayed entry will NOT get any extra time.
+
+Am I allowed to leave the examination hall during the examination?
+NO. Candidates will NOT be allowed to leave the examination hall for any reason during the examination. Candidates are allowed to leave the examination hall only after the scheduled end of examination.
+
+What items are not permitted to be brought with me inside the examination venue?
+Mobile phones, physical calculators, wallets, watches of any type, any electronic/communicating devices, books, papers, loose sheets, pen/pencil box/pouch and any other similar items are NOT PERMITTED inside the examination hall.
+
+Can I use a physical calculator during the examination?
+NO. Candidates are not allowed to bring a physical calculator inside the examination hall. During the online GATE 2026 examination, all candidates will be provided with a virtual scientific calculator which has to be used to answer the questions. The virtual scientific calculator will be available on the computer screen.
+
+Will there be any arrangement at the examination centre for the safe keeping of my personal items such as my mobile phone?
+NO. Such arrangements will not be made at the examination centre. If a candidate brings personal belongings including mobile phones, they have to be kept outside the examination hall at the candidate’s own risk. The GATE officials are not responsible for safe keeping of your personal items.
+
+What happens if a physical calculator (even on an electronic 
+watch) or a mobile phone (even in switched off mode) is found in my possession in the examination hall?
+Such cases are in violation of GATE 2026 code of conduct and will lead to disqualification of the candidature. ‎<This message was edited>
+[2/13/26, 19:36:15] pa: GATE 2026 guidelines
+[2/13/26, 19:36:25] pa: Even switched off phones are not allowed
+[2/13/26, 19:37:06] urvi: got it
+[2/13/26, 19:37:07] urvi: ‎You deleted this message.
+[2/13/26, 19:37:11] urvi: thank you
+[2/14/26, 07:02:32] pa: https://timesofindia.indiatimes.com/technology/tech-news/cisco-president-jeetu-patel-makes-it-clear-says-we-will-not-have-developers-at-cisco-who/articleshow/128301416.cms
+[2/14/26, 14:02:38] pa: Something honestly scared me today.
+I was scrolling LinkedIn and I couldn’t tell who wrote what anymore.
+• Same tone
+• Same structure
+• Same “smart” voice
+I use LLMs every day. I love them.
+But here’s the part nobody says out loud:
+LLMs don’t just help you write.They pull you toward the middle.
+And when everyone sounds polished, nobody sounds real.
+Your edge is the point. Your awkward phrasing is the signal.
+AI won’t steal your voice. 
+But it will erase it quietly if you let it.
+So let me ask you, honestly:
+Are we evolving with AI… or quietly losing the edge that made our thinking ours? 
+
+_Courtesy LinkedIn_
+[2/20/26, 00:08:10] pa: https://www.udemy.com/course/data-structure-interview-questions : 400+ Data Structure Interview Questions Practice Test [2026] 
+
+Urvi, plz try to do the above course in Data Structures for your interviews
+[2/20/26, 00:12:24] pa: https://www.udemy.com/course/600-multithreading-interview-questions-practice-test , 600+ Multithreading Interview Questions Practice Test [2026] . Test on Multithreading and it will surely help you in becoming a system designer and a good trouble shooter for complex multithreaded projects
+[2/20/26, 00:16:15] pa: https://www.udemy.com/course/400-operating-system-interview-questions-practice-test : 400+ Operating System Interview Questions Practice Test 2026 . Start taking such tests now
+[2/20/26, 00:17:03] pa: https://www.udemy.com/course/html-interview-questions : 600+ HTML Interview Questions Practice Test [2026]
+[2/20/26, 00:18:13] pa: https://www.udemy.com/course/how-to-get-calls-for-an-interview-for-a-desired-role/  : Get Interview Calls Through Smart Networking (Understand this and it will help you in the future)
+[2/20/26, 00:19:33] pa: https://www.udemy.com/course/networking-interview-questions : 350+ Networking Interview Questions Practice Test [2026]
+[2/20/26, 00:24:08] pa: https://www.udemy.com/course/ai-powered-career-strategy-adaptation : AI-Powered Career Strategy & Adaptation (Check this , not sure how this may help you)
+[2/21/26, 06:56:57] pa: https://timesofindia.indiatimes.com/technology/tech-news/anthropics-top-exec-answers-why-anthropic-is-hiring-engineers-when-claude-code-is-writing-100-of-code-says-engineering-is-/articleshow/128514066.cms
+[2/21/26, 23:42:29] pa: https://www.reddit.com/r/DeveloperJobs/comments/1raa73o/i_failed_ubers_system_design_interview_last_month/
+[2/23/26, 23:01:12] pa: https://www.youtube.com/watch?v=pXR_bShli10
+‎[2/24/26, 10:12:36] pa: Nice and Simple explanation of AI ... ‎image omitted
+[2/24/26, 10:13:10] pa: what i analyzed is that i do 99% of talking ... Urvi make it interactive
+[2/24/26, 16:06:00] pa: Ex-Meta manager says Stanford and MIT CS grads struggling to get jobs due to AI, shares top skills to get hired - India Today https://share.google/vA4UcWvHd1IaOCSjq
+[2/26/26, 06:45:59] pa: https://www.reddit.com/r/developersIndia/s/BRcgNmkLqh
+[3/2/26, 23:07:12] pa: Bengaluru techie shares 12 lessons after completing a year at Google: 'Tiny 1% bug is a disaster for millions' | Trending https://share.google/rfHNkFEVOfKK1b0Sn
+[3/4/26, 14:45:40] pa: Who is Shreya Singhal? The IIT Madras BS graduate who turned a lockdown degree into a Harvard journey - The Times of India https://share.google/GCRqEEZo8SmApSnrz
+[3/5/26, 13:25:06] pa: Please download the same
+[3/5/26, 17:23:18] pa: German Course Login : https://campus.unipune.ac.in/CCEP/Login.aspx (urvi.rashinkar@gmail.com / Passwd : Av***1**$)
+[3/11/26, 13:01:40] pa: https://youtu.be/_i3i1hYqg4k?si=W7a0ZA3wU-FD5xdp
+[3/13/26, 10:23:52] pa: Techie shares journey from ₹3.6 LPA to ₹65 LPA in 4 years: 'Call me corporate slave, I don't care' | Trending https://share.google/YWU4vVjZxN6dWNUen
+[3/14/26, 22:20:40] pa: Friendly recommendation;
+
+Never buy a Claude subscription, if you need Claude Sonnet or Opus very bad. Because the subscription is a complete money trap. Imagine you sent a bit of a complex message and saying you to wait for 5-6 hours. Use it through arena.ai or yupp.ai while they're giving free usage. Chats on yupp don't have a session, so the best option is arena.ai
+[3/17/26, 16:07:26] pa: BBC Audio | Business Daily | Germany turns to India for skilled workers https://share.google/rs49re6U65t1heksg
+‎[3/20/26, 11:12:55] pa: Your GATE score. Need to introspect ‎image omitted
+[3/20/26, 11:31:33] pa: Enrollment Id
+G103R21
+[3/20/26, 11:31:57] pa: You can view your responses online aand check where you lacked
+[3/20/26, 13:19:28] pa: Check your results here again
+[3/20/26, 13:19:38] pa: passwd : My prev company 123$
+[3/20/26, 21:30:33] pa: Bhuvana Chilukuri: ‘Rejected in two minutes’: Indian-origin student Bhuvana Chilukuri describes AI-led job screening after 100 rejections, calls it 'brutal' - The Times of India https://share.google/OO3eewYOMr3HckjAe
+[3/20/26, 22:02:33] pa: https://news.kollegeapply.com/news/gate-2026-psu-recruitment-list-released-check-top-hiring-companies
+[3/20/26, 22:05:52] pa: End of Figma? - Google Stitch Launch #uidesign #figma #google https://search.app/QZYVm
+[3/21/26, 18:55:15] urvi: Yes will do!’ ‎<This message was edited>
+[3/22/26, 11:34:32] pa: Thanks dear
+[3/22/26, 11:34:54] pa: You gals succeed in your lives, what else do we want
+[3/22/26, 11:35:13] pa: Work Hard and with dedication
+[3/22/26, 22:13:39] pa: https://youtu.be/DrU0HfU_3j4?si=9W9MlsCYHlb4G-mX
+[3/23/26, 20:39:10] pa: Germany launches alliance to fairly recruit skilled workers https://share.google/00yU2TVY7AQvJDXIw
+‎[3/24/26, 20:20:33] pa: Do this without fail. Keep a check on your email from the above mastercard email ID ‎image omitted
+[3/26/26, 16:21:33] pa: UAN urvi : 102315746053
+‎[3/26/26, 16:25:36] urvi: PDFView.pdf • ‎1 page ‎document omitted
+[3/26/26, 17:54:09] pa: Urvi uan
+‎[3/26/26, 18:15:12] pa: EN23152961_EAadhaar_Urvi_Rashinkar_Latest_No_Passwd.pdf • ‎1 page ‎document omitted
+‎[3/26/26, 18:15:54] pa: Urvi_Rashinkar_Epan_unlocked.pdf • ‎1 page ‎document omitted
+‎[3/26/26, 18:30:21] pa: Urvi cheque ifsc indusind ‎image omitted
+‎[3/26/26, 18:30:53] urvi: ‎image omitted
+‎[3/26/26, 18:34:38] pa: ifsc indusind urvi rashinkar.PDF • ‎1 page ‎document omitted
+[3/28/26, 16:31:35] pa: https://www.goclasses.in/courses/GATE-DA-Course#product=p1
+[3/28/26, 16:31:40] pa: Check this as well and compare
+[3/28/26, 16:32:49] pa: The GATE DA paper syllabus is heavily focused on mathematics.
+
+It is essential to thoroughly prepare topics such as linear algebra, calculus, probability, and statistics. A solid understanding of these mathematical concepts will facilitate your study of data science, machine learning, and artificial intelligence.
+
+I recommend taking Andrew Ng’s course on machine learning, as it is one of the best resources available for learning this subject. Additionally, the syllabus includes subjects from the computer science domain, such as data structures, algorithms, and databases.
+[3/28/26, 16:33:08] urvi: ‎You deleted this message.
+[3/29/26, 10:26:21] pa: Google ex-CEO Eric Schmidt: Best programmers don't write code anymore, they... - The Times of India https://share.google/mehGJrsd0OOmruK1b
+[3/31/26, 20:29:43] pa: https://youtu.be/v0ynfDPpe4E?si=wHIEArsfNZDc8-Yr
+[4/1/26, 09:57:52] urvi: Varshanand123@
+[4/1/26, 10:49:33] pa: Wats this?
+[4/1/26, 22:46:42] pa: https://youtu.be/eIbZ9UN-7nE?si=1jUkV6SgOQIs-V1D
+[4/2/26, 15:57:34] pa: Dear All,
+✨ Greetings from Pune Institute of Computer Technology (PICT), Pune! 
+
+We are excited to announce a 50-Hour Certificate Course on “AI Productivity Tools” organized by the Department of AI & DS, PICT.
+
+📅 Course Duration: 6th April 2026 to 30th April 2026
+
+📌 *Registration Details*
+🟢 Starts: 2ndApril 2026
+🔴 Ends: 5th April 2026 (Hurry! Limited time!)
+💰 Fee:
+🎓 ₹500 (Students)
+💼 ₹800 (Working Professionals)
+
+ “Don’t miss this—one video that can change the way you think about AI!”
+  🎥  https://www.youtube.com/watch?v=E-RIfuo2vAw
+  🎥  https://www.veed.io/view/a6ab46f1-aac9-482d-9f4b-9a0de90250b7?source=editor&panel=share
+🔗 Register Now:
+https://pict.amolujagare.com/
+
+📌 *Course Highlights*
+🌐 Mode: Online
+⏳ Duration: 50 Hours
+
+🎓 E-Certificate Awarded
+✔ Minimum 80% Attendance
+✔ Successful Capstone Project Completion
+
+📚 *What You’ll Learn*
+🤖 Introduction to AI
+✨ Generative AI Foundations
+💬 Chatbots & Research Tools
+✍ Writing & Content Creation
+📊 Smart Presentations
+🎨 Image Generation
+🎬 Video Creation
+🗣 Avatars & Voice AI
+💻 Coding Assistants
+⚡ Productivity Tools
+🔁 Automation & AI Agents
+🚀 Capstone Project
+
+🗓 *Schedule* :
+📩 Detailed schedule will be shared via Email & WhatsApp group after registration.
+
+🎯 *Who Can Join?*
+👩‍🎓 Students | 👨‍🏫 Faculty | 👨‍💼 Working Professionals
+(All Branches, UG/PG are welcome!)
+
+👩‍🏫 *Expert Resource Persons*
+🌟 Mr. Amol Ujagare (Founder, Scripting Logic)
+🌟 Mrs. T. S. Mulla, PICT
+🌟 Ms. D. D. Chechani, PICT
+🌟 Mrs. B. S. Kulkarni, PICT
+
+📂 *Bonus* : Course materials, project code & session recordings will be provided
+
+📞 *Course Coordinators*
+📲 Mrs. Tanuja S. Mulla – 9730478003 (tsmulla@pict.edu)
+📲 Ms. Divya Chechani – 9422200236 (ddchechani@pict.edu)
+📲 Mrs. B. S. Kulkarni – 7822923761 (bskulkarni@pict.edu)
+
+🎓 *Convener*
+Dr. S. C. Dharmadhikari
+HoD – AI & DS, PICT, Pune
+
+📢 Don’t miss this opportunity to boost your AI skills and productivity!
+👉 Kindly circulate among interested participants
+
+🚀 Upgrade Your Skills. Transform Your Future. Join Now!
+[4/5/26, 10:09:37] pa: https://share.google/aimode/m4SmzMh0dfZsHa2Cg
+[4/5/26, 10:09:59] urvi: I asked krishna
+[4/5/26, 10:10:03] urvi: Got the techstack
+[4/5/26, 10:41:35] pa: Achaa hoka khoop chaan, i liked your initiative and promptness
+[4/5/26, 11:42:56] pa: I replaced Adobe, Figma, and Canva with one free tool, and I'm not paying for design software again https://share.google/qVpbhAExD8et2vJye
+[4/5/26, 11:53:44] pa: Ankur Warikoo shares 3 movies that teach more than an MBA. He shares his picks that teach real career lessons - The Economic Times https://share.google/grXkk40PXYOiWBvMZ
+[4/5/26, 16:49:41] pa: From university fees to visa costs: Indian student in France breaks down ₹44 lakh cost of studying abroad | Trending https://share.google/mooubHgMjegdBcsQm
+[4/6/26, 10:03:48] pa: Harvard Announces 6 Free Online Courses In AI, Web Development, Programming, Details Here https://share.google/aMwzOfkMun7Tmn5Sc
+[4/6/26, 10:03:54] pa: Check kar jara
+[4/6/26, 16:40:26] urvi: Yes
+[4/6/26, 20:23:54] pa: https://www.reddit.com/r/GATEtard/comments/1sdukk3/need_honest_advice_for_gate_2027_prep_while/
+[4/7/26, 09:45:11] pa: Techie says he got manager fired after PIP, shares how he challenged the decision: 'I chose violence' | Trending https://share.google/ov7Nzq4cLa3RcUjJn
+[4/7/26, 11:35:11] pa: https://youtu.be/mR3g388TEE8?si=sYdOoJFkEgbZZiCD
+[4/7/26, 19:21:37] pa: I ditched Claude Code and OpenCode for Pi, and my coding workflow became predictable again https://share.google/E10Oj9OzUwFvIJJYS
+[4/8/26, 11:40:17] pa: Stanford alum Indian-origin CEO asks co-founder to argue before the whole team | Trending https://share.google/Dn8l7Ou7rfQGUcZAl
+[4/8/26, 13:02:35] pa: S.Y. B.Tech.lTElBE PARENTS MEET (Hybrid Mode)
+Parents meet for S.Y. B. Tech /TEIBE will be conducted on Saturday,11. th April
+2026 (10: 00 am)
+[4/8/26, 13:04:29] pa: https://teams.microsoft.com/meet/43003128976471?p=63A7wJSY6tzBWvo4HB ‎<This message was edited>
+[4/8/26, 13:06:16] pa: Dear Candidate,
+
+Congratulations for Qualifying GATE 2026 Examination.
+
+Indian Institute of Technology Kharagpur invites online applications for admission to Joint M.Tech./MCP-Ph.D. Programmes (JMP) 2026-2027 in 57 different verticals from 1st April 2026 onwards.
+
+Three new programmes have been introduced in this year, Computational Mechanics, Nanotechnology and MS in Indian Knowledge System.
+
+Please visit the portal https://gateoffice.iitkgp.ac.in/jmp for useful information: eligibility criteria, selection procedure, GATE score cut-off marks for last year (JMP 2025) and availability of seats at IIT Kharagpur.
+
+Before applying, you need to have a COAP ID (same as registration number). Please visit COAP website at https://coap2026.iitr.ac.in/coap2026 and register yourself with all the qualified GATE Registration Numbers.
+
+Please note that the last date of Applying for the M.Tech. 2026 programmes through GATE is 17th April 2026 tentatively.
+
+All the best wishes for future career endeavours.
+
+JMP Admissions Team 2026-27
+IIT Kharagpur
+[4/8/26, 13:06:40] pa: Check jara cut offs for varios verticals for mtech in IIT kharagpur
+[4/8/26, 13:06:45] pa: u will get some idea
+[4/8/26, 13:25:13] urvi: Okayy
+[4/8/26, 23:23:10] pa: https://www.reddit.com/r/developersIndia/s/J22I8O0agq
+[4/8/26, 23:44:25] urvi: Wow
+[4/9/26, 10:02:40] pa: https://careers.mastercard.com/us/en/blogarticle/day-in-the-life-mastercard-intern
+[4/9/26, 10:02:50] pa: Read through 👆
+[4/9/26, 11:59:24] pa: ‘No serious work given’: IIT grad working at MNC passes time watching reels and YouTube at office daily https://www.moneycontrol.com/news/trends/no-serious-work-given-iit-grad-working-at-mnc-passes-time-watching-reels-and-youtube-at-office-daily-13880060.html
+[4/9/26, 11:59:31] pa: Red flag 👆
+[4/9/26, 17:59:55] pa: https://youtu.be/Hq9jrxnjnGM?si=JTt9FD5R2K16OHLw
+[4/10/26, 10:11:00] pa: https://www.youtube.com/watch?v=hk6go5jioTk
+[4/10/26, 10:11:07] pa: Just check this Gemma 4
+[4/10/26, 10:38:20] pa: https://youtube.com/shorts/STbLTYTtQ7o?si=InDcj0Ogl5yDktEq
+[4/10/26, 10:38:28] pa: May be good for taking notes for u urvi
+[4/10/26, 10:39:26] pa: https://youtube.com/shorts/n4OIa1xMggU?si=v0vIBc_XrrUQMTCf
+[4/11/26, 12:36:18] pa: Indian founder hires 20-year-old fresher who dmed him on X, shares why it worked - India Today https://share.google/tXC1UwBEvxRQuBG5Y
+[4/11/26, 12:36:34] pa: See how smart the kid proved himself , read through 👆
+[4/11/26, 21:40:08] pa: Indian techie requests flexible hours to care for newborn, US manager's reply is viral - India Today https://share.google/FSmbKFI2mgqSWNIYU
+[4/12/26, 09:54:59] pa: Google's new AI Studio is a game-changer for vibe coding https://share.google/O2q6pQ83ANKH0V4EX
+[4/12/26, 10:16:11] pa: How an IIM Calcutta alum repaid her ₹30 lakh MBA loan in just 2 years: ‘Every little effort adds up’ | Trending https://share.google/5DWYInjEUUYZgLzzP
+[4/14/26, 11:19:12] pa: Nvidia rewards 10k India staff, payouts up to 1 crore - The Times of India https://share.google/l4HugeNWCejDlHQnm
+[4/14/26, 20:50:54] Urvi Engineering PICT-AI-DS 👍: ‎You turned off advanced chat privacy.
